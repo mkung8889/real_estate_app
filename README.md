@@ -1,3 +1,3 @@
 # Real Estate App
 
-This app allows users to compare and analyze real estate markets
+This app will allow users to compare and analyze real estate markets
